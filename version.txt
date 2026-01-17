@@ -1,5 +1,6 @@
-1.2.1
-https://github.com/roswellsalien/yovd/releases/download/v1.2.1/YOVD_Setup.msi
+1.2.2
+https://github.com/roswellsalien/yovd/releases/download/v1.2.2/YOVD_Setup.msi
+
 
 
 
